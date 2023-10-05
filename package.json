@@ -1,0 +1,21 @@
+{
+  "name": "srtakennedy",
+  "displayName": "pink-dark",
+  "description": "Rosa Dark, para as pessoas que gostam de rosa kkkkkkkkk.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "srtakennedy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PINKDARK-color-theme.json"
+      }
+    ]
+  }
+}
