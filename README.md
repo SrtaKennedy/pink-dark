@@ -1,4 +1,4 @@
-# pink-dark README
+# pink-dark
 
 ## Working with Markdown
 
