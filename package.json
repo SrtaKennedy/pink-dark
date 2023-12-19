@@ -1,8 +1,10 @@
 {
-  "name": "srtakennedy",
+  "name": "pink-dark",
   "displayName": "pink-dark",
   "description": "Rosa Dark, para as pessoas que gostam de rosa kkkkkkkkk.",
-  "version": "0.0.1",
+  "version": "0.0.4",
+  "publisher": "srtakennedy",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -12,10 +14,16 @@
   "contributes": {
     "themes": [
       {
-        "label": "srtakennedy",
+        "id": "srtakennedy",
+        "label": "pink-dark",
         "uiTheme": "vs-dark",
         "path": "./themes/PINKDARK-color-theme.json"
       }
     ]
+  },
+  "icon": "pink-cosmos.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SrtaKennedy"
   }
 }
