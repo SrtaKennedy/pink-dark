@@ -1845,7 +1845,7 @@
     }
   ],
   "colors": {
-    "foreground": "#ff95ad",
+    "foreground": "#ffffff",
     "focusBorder": "#ffb3bf",
     "selection.background": "#ffb3bf50",
     "scrollbar.shadow": "#000000",
@@ -1857,7 +1857,7 @@
     "activityBar.border": "#5a5a5a",
     "activityBar.activeBackground": "#ff869f",
     "sideBar.background": "#2a2927",
-    "sideBar.foreground": "#ffa3b6",
+    "sideBar.foreground": "#ffffff",
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.foreground": "#ffdee4",
     "sideBarSectionHeader.border": "#ffb3c156",
@@ -1865,7 +1865,7 @@
     "sideBar.border": "#ff8fa34e",
     "list.inactiveSelectionBackground": "#fff0f322",
     "list.inactiveSelectionForeground": "#ffffffc5",
-    "list.hoverBackground": "#ff809c",
+    "list.hoverBackground": "#fa839d67",
     "list.hoverForeground": "#ffdfe4",
     "list.activeSelectionBackground": "#fe6e8b",
     "list.activeSelectionForeground": "#ffffff",
